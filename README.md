@@ -51,6 +51,7 @@ Want to improve the game or add your own features? Feel free to fork the repo an
 📣 Note
 
 ⚠️ This game was made as a fun little tribute. It may have bugs or rough edges — but that's part of its charm :)
+
 📜 License
 
 This project is open-source and licensed under the MIT License.
