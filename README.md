@@ -40,7 +40,7 @@ SaveDovacre was created quickly, so it's still quite simple. Here's what you can
 ### 🔧 Manual Installation
 
 1. Download the latest release from the [Releases](https://github.com/...) section.
-2. Make sure `yanisLib.h`, `SaveDovacre.cpp` and `Dovacre.ico` are in the same directory.
+2. Make sure `yanisLib.h` and `SaveDovacre.cpp` are in the same directory.
 3. Compile the game
 
 **You can just use the installer of the realese to include the game in the path.**
